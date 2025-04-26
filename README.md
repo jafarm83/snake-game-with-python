@@ -14,7 +14,7 @@ pip install pygame
 
 ### 🎮 Snake Eater Game Guide
 
-**Snake Eater** is a simple snake game built using the **Pygame** library. In this game, you control a snake that is looking for food, and each time it eats, its body grows longer. Your goal is to keep the snake alive for as long as possible and avoid colliding with the wall or its own body.
+**Snake Eater** is a simple  snake game built using the **Pygame** library. In this game, you  control a  snake that is looking for food, and each time it eats, its body grows longer. Your goal is to keep the snake alive for as long as possible and avoid colliding with the wall or its own body.
 
 #### 1. **Starting the Game**
    - When you run the program, the game window opens, and the snake starts moving around.
@@ -38,6 +38,7 @@ pip install pygame
      - **Hard** -> 40
      - **Harder** -> 60
      - **Impossible** -> 120
+     - 
 
 #### 5. **Score**
    - With each piece of food the snake eats, your score increases. The score is displayed at the top of the screen.
