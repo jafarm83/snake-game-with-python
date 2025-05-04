@@ -2,7 +2,7 @@
 
 ---
 
-### 📦 Required Libraries Installation:
+### 📦 Required Libraries Installation :
 
 Before starting the game, you need to install the **Pygame** library. To do this, run the following command in your terminal or CMD:
 
